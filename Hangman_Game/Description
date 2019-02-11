@@ -1,0 +1,22 @@
+Hangman is a paper and pencil guessing game for two or more players.
+One player thinks of a word, phrase or sentence and the other(s) tries to guess it by suggesting letters or numbers, 
+within a certain number of guesses.
+
+The computer must select a word at random from the list of available words that was provided in words.txt. The functions for loading the word list and selecting a random word have already been provided for you in ps3_hangman.py.
+
+The game is interactive
+
+At the start of the game, the user know how many letters the computer's word contains.
+
+Ask the user to supply one guess (i.e. letter) per round.
+
+The user  receive feedback immediately after each guess about whether their guess appears in the computer's word.
+
+After each round, the program display to the user the partially guessed word so far, as well as letters that the user has not yet guessed.
+
+Some additional rules of the game:
+A user is allowed 8 guesses
+
+A user loses a guess only when s/he guesses incorrectly.
+
+The game  end when the user constructs the full word or runs out of guesses. If the player runs out of guesses (s/he "loses
