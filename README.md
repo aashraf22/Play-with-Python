@@ -1,2 +1,2 @@
 # Play with Python
-Some nice ideas coded in Python
+It's a repo for small python program that I found its idea is cool to code it
