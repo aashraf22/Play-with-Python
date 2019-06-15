@@ -1,2 +1,2 @@
-# Play with Python
-It's a repo for small python codes that I found its idea is cool to code it
+# Python Small Projects
+It's a repo for small python projects. Each project has its description in its folder
